@@ -1,0 +1,14 @@
+c:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\DESAFIOFUNDAMENTOS.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\DESAFIOFUNDAMENTOS.AssemblyInfoInputs.cache
+c:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\DESAFIOFUNDAMENTOS.AssemblyInfo.cs
+c:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\DESAFIOFUNDAMENTOS.csproj.CoreCompileInputs.cache
+C:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\bin\Debug\net8.0\DESAFIOFUNDAMENTOS.exe
+C:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\bin\Debug\net8.0\DESAFIOFUNDAMENTOS.deps.json
+C:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\bin\Debug\net8.0\DESAFIOFUNDAMENTOS.runtimeconfig.json
+C:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\bin\Debug\net8.0\DESAFIOFUNDAMENTOS.dll
+C:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\bin\Debug\net8.0\DESAFIOFUNDAMENTOS.pdb
+C:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\DESAFIOFUNDAMENTOS.dll
+C:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\refint\DESAFIOFUNDAMENTOS.dll
+C:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\DESAFIOFUNDAMENTOS.pdb
+C:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\DESAFIOFUNDAMENTOS.genruntimeconfig.cache
+C:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\ref\DESAFIOFUNDAMENTOS.dll
