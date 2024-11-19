@@ -1,26 +1,10 @@
 ﻿using DESAFIOFUNDAMENTOS.Models;
 
-Console.OutputEncoding = System.Text.Encoding.UTF8;
+Estacionamento es = new Estacionamento(5,2);
 
-decimal precoInicial = 0;
-decimal precoPorHora = 0;
+bool mostrarMenu = true;
+while(mostrarMenu){
 
-Console.WriteLine("Seja bem vindo ao sistema de estacionamento!\n" +
-                  "Digite o preço inicial:");
-precoInicial = Convert.ToDecimal(Console.ReadLine());
-
-Console.WriteLine("Agora digite o preço por hora:");
-precoPorHora = Convert.ToDecimal(Console.ReadLine());
-
-// Instancia a classe Estacionamento, já com os valores obtidos anteriormente
-Estacionamento es = new Estacionamento(precoInicial, precoPorHora);
-
-string opcao = string.Empty;
-bool exibirMenu = true;
-
-// Realiza o loop do menu
-while (exibirMenu)
-{
     Console.Clear();
     Console.WriteLine("Digite a sua opção:");
     Console.WriteLine("1 - Cadastrar veículo");
@@ -28,22 +12,22 @@ while (exibirMenu)
     Console.WriteLine("3 - Listar veículos");
     Console.WriteLine("4 - Encerrar");
 
-    switch (Console.ReadLine())
+     switch (Console.ReadLine())
     {
         case "1":
-            es.AdicionarVeiculo();
+            es.registrarVeiculo();
             break;
 
         case "2":
-            es.RemoverVeiculo();
+            es.removerVeiculo();
             break;
 
         case "3":
-            es.ListarVeiculos();
+            es.listarVeiculos();
             break;
 
         case "4":
-            exibirMenu = false;
+            mostrarMenu = false;
             break;
 
         default:
@@ -56,3 +40,12 @@ while (exibirMenu)
 }
 
 Console.WriteLine("O programa se encerrou");
+
+// List<Veiculo> veiculos = new List<Veiculo>();
+// veiculos.Add(new Veiculo("aaaa", 12));
+// veiculos.Add(new Veiculo("bbbb", 15));
+
+// foreach (var item in veiculos)
+// {
+//     Console.WriteLine(item.placa + item.horarioDeEntrada);
+// }

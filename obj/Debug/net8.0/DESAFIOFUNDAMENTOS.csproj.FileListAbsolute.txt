@@ -12,3 +12,4 @@ C:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\
 C:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\DESAFIOFUNDAMENTOS.pdb
 C:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\DESAFIOFUNDAMENTOS.genruntimeconfig.cache
 C:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\ref\DESAFIOFUNDAMENTOS.dll
+C:\Users\Luana\Documents\Arthur\PROG\DOTNET\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\DESAFIOFUNDAMENTOS.sourcelink.json
